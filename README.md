@@ -15,4 +15,4 @@
 ## Fundamental
 
 ### Data 
-1. "Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite", 2012 CVPR, A-Geiger 
+1. "Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite", 2012 CVPR, A-Geiger, http://www.cvlibs.net/publications/Geiger2012CVPR.pdf 
