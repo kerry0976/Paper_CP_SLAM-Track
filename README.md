@@ -9,7 +9,7 @@
 ## Paper
 
 ### SLAM #
-
+1. (Read on 07/06/2020) "Review and classification of vision-based localisation techniques in unknown environments", 2014, https://hal-enac.archives-ouvertes.fr/hal-00996022/document
 
 ### Computer Vision #
 
